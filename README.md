@@ -1,3 +1,7 @@
+# Test using headers
+## Test with sub-headings
+###### Test with the smallest headings
+
 <header>
 
 <!--
